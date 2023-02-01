@@ -1,0 +1,8 @@
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\bin\Debug\Классы.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\bin\Debug\Классы.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\bin\Debug\Классы.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\obj\Debug\Классы.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\obj\Debug\Классы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\obj\Debug\Классы.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\obj\Debug\Классы.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Классы\Классы\obj\Debug\Классы.pdb
